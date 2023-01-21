@@ -126,6 +126,10 @@ Website Tools -
 3. Nginx - https://www.nginx.com/
 4. Tomcat - https://tomcat.apache.org/
 
+Web Devlopment - 
+1. WAMP - https://www.wampserver.com/en/
+2. XAMPP - https://www.apachefriends.org/
+
 
 ----------------------------------- [ Scripting / Coding ] -----------------------------------
 
