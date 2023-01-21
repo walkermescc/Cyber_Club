@@ -2,11 +2,11 @@
 
 ----------------------------------- [ Introduction ] -----------------------------------
 
-# This GitHub repository has been created to support Cyber Centurions, it's purpose is to provide Students with the various skills, which might be used for the compeitition and your career. However, it will contain  technical details for the class, and will have challenges and useful links, which shall be used.
+This GitHub repository has been created to support Cyber Centurions, it's purpose is to provide Students with the various skills, which might be used for the compeitition and your career. However, it will contain  technical details for the class, and will have challenges and useful links, which shall be used.
 
-# Another point to make, is that this list isn't a full list of software, and it's not meant to completely steer you in one direction, all tools can be used in a variety of ways to acomplish a goal. It is up to you, and your team to decide what you would like to use.
+Another point to make, is that this list isn't a full list of software, and it's not meant to completely steer you in one direction, all tools can be used in a variety of ways to acomplish a goal. It is up to you, and your team to decide what you would like to use.
 
-# Be aware this page doesn't contain any of the questions/ or answers for the competition.
+Be aware this page doesn't contain any of the questions/ or answers for the competition.
 
 ----------------------------------- [ Important Details ] -----------------------------------
 
