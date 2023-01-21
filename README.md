@@ -65,6 +65,12 @@ Firewalls -
 2.1. Windows Defender Firewall * - https://en.wikipedia.org/wiki/Windows_Firewall
 2.2. Glasswire https://www.glasswire.com/
 
+Other Tools - 
+7Zip - https://www.7-zip.org/
+KeePass - https://keepass.info/
+Hirens - https://www.hirensbootcd.org/
+WinMerge - https://winmerge.org/?lang=en
+
 ----------------------------------- [ Advance Tools ] -----------------------------------
 Whilst these tools are available on the public domain, you as the user are responsibile for your own behaiour and are not permmited to use these tools for any malicious intent.
 
@@ -113,6 +119,8 @@ Forensics Tools -
 Network  Tools - 
 1. Wireshark - https://www.wireshark.org/
 2. NMap/ Zenmap - https://nmap.org/download.html/
+3. GNS3 - https://gns3.com/
+4. Packet Tracer - https://www.netacad.com/courses/packet-tracer
 
 Database Tools
 1. Microsoft SQL Express - https://www.microsoft.com/en-gb/sql-server/sql-server-downloads
@@ -129,6 +137,11 @@ Website Tools -
 Web Devlopment - 
 1. WAMP - https://www.wampserver.com/en/
 2. XAMPP - https://www.apachefriends.org/
+
+Other Tools -
+1. Filezilla - https://filezilla-project.org/
+2. WinSCP - https://winscp.net/eng/download.php
+3. Putty - https://www.putty.org/
 
 
 ----------------------------------- [ Scripting / Coding ] -----------------------------------
