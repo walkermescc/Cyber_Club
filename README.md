@@ -138,6 +138,10 @@ Web Devlopment -
 1. WAMP - https://www.wampserver.com/en/
 2. XAMPP - https://www.apachefriends.org/
 
+OSINT -
+Sodan -
+Dorking -
+
 Other Tools -
 1. Filezilla - https://filezilla-project.org/
 2. WinSCP - https://winscp.net/eng/download.php
